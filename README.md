@@ -1,9 +1,5 @@
 ### <div align="center">👋😄 Hey there! I’m Pabasara, a passionate Computer Engineering Undergraduate at the University of Ruhuna Faculty of Engineering 🎓.</div>  
   
-
-- 💻 I’m currently working on Busbuddy which is a comprehensive web-based solution designed
-for the management of individual and company-based private and public transport
-bus businesses.🚌  
   
 
 - 🧠 I am currently diving into the realm of Artificial Intelligence, eagerly exploring its intricacies and applications.  
