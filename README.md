@@ -81,5 +81,21 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabasara715&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Pabasara715&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Pabasara715&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 
