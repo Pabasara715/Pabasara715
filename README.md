@@ -91,7 +91,7 @@
         <img src="https://streak-stats.demolab.com?user=Pabasara715&theme=highcontrast&hide_border=true" alt="GitHub Streak">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pabasara715&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage" alt="GitHub Stats">
+<!--     <img src="https://github-readme-stats-7mg5.vercel.app/api?username=Pabasara715&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged_percentage" alt="GitHub Stats"> -->
       </td>
     </tr>
   </table>
